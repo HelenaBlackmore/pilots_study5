@@ -1,0 +1,70 @@
+date,time,group,subject,build,c1_response,c1_latency,c2_response,c2_latency,c3_response,c3_latency,c4_response,c4_latency,c5_response,c5_latency,c6_response,c6_latency,age_response,age_latency,name_response,name_latency,email_response,email_latency
+51121,12:28:19,141927376,42,5.0.14.0,yes,7151,yes,3639,yes,3963,yes,5448,yes,4063,yes,3786,25-34 years old,23425,Sophia Komnniou,23425,skomninou@hotmail.com,23425
+51121,6:35:49,285977513,50,5.0.14.0,yes,7813,yes,1946,yes,2055,yes,2001,yes,2141,yes,2041,,4975,5t344t,4975,esrwer,4975
+51121,9:41:44,919575683,54,5.0.14.0,yes,11361,yes,12392,yes,15146,yes,12453,yes,14741,yes,2839,25-34 years old,37909,Nienow Johnson,37909,johnsonqdivi47@gmail.com,37909
+51121,8:42:40,838866360,57,5.0.14.0,yes,19300,yes,27609,yes,17204,yes,5945,yes,12383,yes,12394,35-44 years old,35422,Camdyn Adams,35422,adacamdyn@gmail.com,35422
+51121,9:46:00,270202353,58,5.0.14.0,yes,13233,yes,32189,yes,13124,yes,55528,yes,14833,yes,17242,25-34 years old,44130,Kunde Elyse,44130,kundepdxty29@gmail.com,44130
+51121,8:56:00,933264771,62,5.0.14.0,yes,61865,yes,26262,yes,86530,yes,50863,yes,14756,yes,38910,25-34 years old,50310,Deedra Clorinda,50310,deedraclorinda4884@gmail.com,50310
+51121,9:56:43,407142950,67,5.0.14.0,yes,24773,yes,48428,yes,16937,yes,16150,yes,12705,yes,10409,35-44 years old,72187,Brycen Curry,72187,currybrycen1998@gmail.com,72187
+50521,4:12:23,192911033,72,5.0.14.0,yes,15253,yes,2734,yes,2657,yes,2148,yes,2278,yes,2115,18-24 years old,36721,Pablo Mcneil,36721,mcneiilpaablo@gmail.com,36721
+51121,9:55:38,708142634,77,5.0.14.0,yes,108050,yes,57893,yes,2209,yes,2563,yes,3328,yes,13605,35-44 years old,35753,Castiel Bonner,35753,castielbonner1998@gmail.com,35753
+51121,8:48:28,315653490,78,5.0.14.0,yes,28275,yes,82117,yes,13059,yes,3893,yes,18269,yes,11796,18-24 years old,32260,Pablo Mcneil,32260,mcneiilpaablo@gmail.com,32260
+51121,6:58:11,680045565,79,5.0.14.0,yes,33634,yes,143498,yes,38785,yes,14485,yes,14084,yes,15115,18-24 years old,63389,Bordalenko,63389,suttonneellis@gmail.com,63389
+51121,8:56:01,272222174,80,5.0.14.0,yes,13545,yes,2654,yes,2059,yes,1765,yes,1795,yes,2038,25-34 years old,71652,Jesiah Craig,71652,jjesiahhcraig@gmail.com,71652
+51121,9:57:19,755867372,81,5.0.14.0,yes,31203,yes,40923,yes,47918,yes,16970,yes,17756,yes,16411,25-34 years old,55626,Jaden Becker,55626,jjdebeecker@gmail.com,55626
+51121,9:57:00,927227017,82,5.0.14.0,yes,11399,yes,39109,yes,14700,yes,8303,yes,10677,yes,13170,,30292,Emiliano Wright ,30292,wrightemiliano1998@gmail.com,30292
+51121,10:00:12,725152440,87,5.0.14.0,yes,22298,yes,61200,yes,17307,yes,14569,yes,12574,yes,11671,18-24 years old,185520,Brent Dicus ,185520,brentidk75@gmail.com,185520
+51121,9:03:38,811246138,99,5.0.14.0,yes,29514,yes,3199,yes,4386,yes,2323,yes,2093,yes,13855,25-34 years old,49024,Kenneth Castaneda,49024,kennethcastaneda1997@gmail.com,49024
+51121,9:04:53,247056292,104,5.0.14.0,yes,18514,yes,3433,yes,2232,yes,9146,yes,1768,yes,2841,25-34 years old,32318,Theodore Scott,32318,scotttheodore2000@gmail.com,32318
+51121,10:05:25,163974413,110,5.0.14.0,yes,31569,yes,84101,yes,16167,yes,14491,yes,17367,yes,15558,25-34 years old,107180, Russell Harding ,107180,rusellharing@gmail.com ,107180
+51121,7:09:07,5601420,119,5.0.14.0,yes,108434,yes,37210,yes,10839,yes,10521,yes,13653,yes,12669,25-34 years old,41920,Nicholas Mcgowan,41920,nnichoolasmcgowan@gmail.com,41920
+51121,10:10:14,665189049,126,5.0.14.0,yes,92297,yes,68579,yes,17043,yes,2212,yes,2189,yes,2384,25-34 years old,128588,Roxann Wanda,128588,roxanncuqew89@gmail.com,128588
+50521,4:12:55,440792769,128,5.0.14.0,yes,6116,yes,2749,yes,1907,yes,1537,yes,1505,yes,1411,25-34 years old,36280,Greyson Sims,36280,simsggreysson@gmail.com,36280
+51121,10:12:09,958173294,129,5.0.14.0,yes,3782,yes,2836,yes,3156,yes,3085,yes,2739,yes,2593,18-24 years old,32621,alidakelsie,32621,alidakelsie3949@gmail.com,32621
+51121,10:13:32,889420221,131,5.0.14.0,yes,71622,yes,16947,yes,10309,yes,15115,yes,11378,yes,27959,25-34 years old,186556,Pilar Laila,186556,pilarlaila5077@gmail.com,186556
+51121,10:12:19,916221930,132,5.0.14.0,yes,2511,yes,2143,yes,2210,yes,1985,yes,1588,yes,1565,25-34 years old,18401,Claudio Lyndon,18401,lyndonxrok38@gmail.com,18401
+51121,10:11:36,751679784,133,5.0.14.0,yes,3142,yes,3065,yes,2266,yes,10490,yes,3316,yes,3058,18-24 years old,38921,eulahlemke,38921,eulahlemke0761@gmail.com,38921
+51121,15:16:46,233933346,140,5.0.14.0,yes,10106,yes,6793,yes,3773,yes,3970,yes,4375,yes,2428,25-34 years old,52108,Eli Carla,52108,innhaarpe@gmail.com,52108
+51121,10:14:53,248285519,142,5.0.14.0,yes,4050,yes,2243,yes,1757,yes,1561,yes,1593,yes,1913,18-24 years old,52559,De Jofre,52559,mairakerrie8764@gmail.com,52559
+51121,10:15:31,740515121,145,5.0.14.0,yes,3339,yes,4410,yes,2499,yes,2704,yes,2716,yes,3503,25-34 years old,56738,   Zain Wynn  ,56738,wynnzzzain@gmail.com,56738
+51121,10:20:47,382769186,147,5.0.14.0,yes,14669,yes,2430,yes,6524,yes,1622,yes,1675,yes,1651,18-24 years old,34751,Hane Lucy,34751,lucyftg04@gmail.com,34751
+51121,10:19:34,56786654,148,5.0.14.0,yes,2886,yes,2441,yes,5493,yes,3845,yes,2149,yes,2167,35-44 years old,43796,Jaxon Velez,43796,jaaxxonvelez@gmail.com,43796
+51121,9:19:13,742347810,150,5.0.14.0,yes,2425,yes,1681,yes,1615,yes,1659,yes,1777,yes,1703,,16278,Nash Cherry,16278,nashchhherry@gmail.com,16278
+51121,7:20:02,131549396,152,5.0.14.0,yes,2986,yes,2121,yes,2059,yes,1694,yes,1548,yes,1841,35-44 years old,27462,Aidan Walte,27462,wwalteraidaan@gmail.com,27462
+51121,10:21:53,628988970,156,5.0.14.0,yes,14111,yes,22849,yes,2666,yes,2984,yes,3820,yes,2318,18-24 years old,36315,Nash Wilcox,36315,wilcoxnaassh@gmail.com,36315
+50521,3:09:22,277070736,157,5.0.14.0,yes,2754,yes,1597,yes,2147,yes,2461,yes,2585,yes,1903,25-34 years old,18645,Landen Housto,18645,landdenhhouston@gmail.com,18645
+51121,7:24:11,447879181,159,5.0.14.0,yes,1786,yes,1785,yes,1936,yes,1688,yes,1372,yes,1668,35-44 years old,42129,Gannon Buchanan,42129,bucchanangaannon@gmail.com,42129
+51121,10:24:02,364825224,160,5.0.14.0,yes,7489,yes,4915,yes,2936,yes,2186,yes,2918,yes,2815,45-54 years old,33455,Greg Dahl,33455,dahliph56@gmail.com,33455
+51121,10:25:57,952080308,162,5.0.14.0,yes,2892,yes,1722,yes,1726,yes,1580,yes,1857,yes,1772,,23309,Keith Spears,23309,speeaarskeith@gmail.com,23309
+51121,7:25:33,894702402,163,5.0.14.0,yes,7811,yes,7166,yes,3549,yes,14472,yes,16561,yes,9214,18-24 years old,140434,She watts,140434,bnfgueroa@gmail.com,140434
+51121,10:31:43,427582539,165,5.0.14.0,yes,3764,yes,3065,yes,1840,yes,1961,yes,1884,yes,1973,18-24 years old,14154,Jesus Deaton,14154,jesusdeaton5145@gmail.com,14154
+51121,9:26:38,392235791,166,5.0.14.0,yes,10204,yes,2068,yes,1923,yes,7193,yes,1412,yes,1679,25-34 years old,56383,Don McCroskey,56383,donfvq10@gmail.com,56383
+51121,9:27:59,346991545,167,5.0.14.0,yes,4561,yes,2399,yes,1688,yes,3086,yes,2200,yes,2002,18-24 years old,36318,Jimmy Farmer,36318,21jimfarmer@gmail.com,36318
+51121,9:26:51,840600907,168,5.0.14.0,yes,9587,yes,2444,yes,2253,yes,2147,yes,2096,yes,2414,35-44 years old,48693,Harley Wynn,48693,harlleeywynn@gmail.com,48693
+51121,10:27:42,118210985,170,5.0.14.0,,20755,,,,,,,,,,,,,,,,
+51121,10:28:40,118210985,170,5.0.14.0,yes,18405,yes,2039,yes,1821,yes,1621,yes,1588,yes,1608,35-44 years old,22350,Ramon Dalton,22350,daltonbhss17@gmail.com,22350
+51121,10:31:36,558507562,173,5.0.14.0,yes,4734,yes,10788,yes,3301,yes,2474,yes,2317,yes,2441,25-34 years old,53498,Jenny Terrazas,53498,terrazasund58@gmail.com,53498
+51121,10:32:59,536423669,175,5.0.14.0,yes,4102,yes,42596,yes,21595,yes,15632,yes,11795,yes,9495,25-34 years old,20766,Bill Tyron,20766,tyronfhddb46@gmail.com,20766
+51121,10:31:48,190604679,176,5.0.14.0,yes,1969,yes,1646,yes,1588,yes,1596,yes,1403,yes,1720,,44420,Aiden Mcdaniel,44420,mcdanielaiden1999@gmail.com,44420
+51121,9:33:10,275447795,177,5.0.14.0,yes,3996,yes,3772,yes,5141,yes,4035,yes,3212,yes,2931,45-54 years old,32003,Barbara Offutt,32003,barbaradas93@gmail.com,32003
+51121,7:33:50,444738424,178,5.0.14.0,yes,2711,yes,28770,yes,2540,yes,1868,yes,1795,yes,1991,25-34 years old,42211,Jefferson Lyons,42211,jeffeeersonlyons@gmail.com,42211
+51121,4:42:55,832289747,184,5.0.14.0,yes,9492,yes,6549,yes,2816,yes,5531,yes,16709,yes,8596,25-34 years old,62925,Crona Erick,62925,cronaxkuup26@gmail.com,62925
+51121,10:37:52,297189000,185,5.0.14.0,yes,2111,yes,2813,yes,1576,yes,1641,yes,1797,yes,1873,,13564,Aiden Mcdaniel,13564,mcdanielaiden1999@gmail.com,13564
+51121,10:36:02,835121960,186,5.0.14.0,yes,5504,yes,11974,yes,2128,yes,6509,yes,2538,yes,2369,18-24 years old,24656,   Wayne Hubbard   ,24656,waaynehubbbard@gmail.com,24656
+51121,15:38:18,869220298,187,5.0.14.0,yes,7189,yes,3745,yes,4344,yes,5617,yes,4383,yes,4443,25-34 years old,95390,Rosencroyts,95390,byyerrskody@gmail.com,95390
+51121,10:38:05,620796170,188,5.0.14.0,yes,2666,yes,2260,yes,3489,yes,4177,yes,3169,yes,2520,35-44 years old,37501,Harley Wynn,37501,harlleeywynn@gmail.com,37501
+51121,15:39:20,192776168,189,5.0.14.0,yes,16944,yes,16196,yes,5853,yes,2221,yes,1634,yes,1821,18-24 years old,48306, Jaxson Duke,48306,dukejaxson1998@gmail.com,48306
+51121,15:39:56,319817236,193,5.0.14.0,yes,2496,yes,1885,yes,1721,yes,1811,yes,2302,yes,1970,35-44 years old,31797,Enoch Guerra,31797,guerraenoch1998@gmail.com,31797
+51121,10:45:03,69221329,196,5.0.14.0,yes,1766,yes,1763,yes,1390,yes,1350,yes,1434,yes,1492,,15704,Otis Ball,15704,ballotis1993@gmail.com,15704
+51121,10:43:29,48920917,197,5.0.14.0,yes,4244,yes,15062,yes,28798,yes,12932,yes,3900,yes,2343,25-34 years old,40598,ernestinepzxxb,40598,ernestinepzxxb18@gmail.com,40598
+50521,4:13:54,832675749,199,5.0.14.0,yes,2570,yes,1669,yes,1445,yes,1621,yes,1854,yes,1515,25-34 years old,22276,Kaleb Roberts,22276,kalebrobeerrts@gmail.com,22276
+51121,10:42:40,5028002,200,5.0.14.0,yes,2694,yes,1833,yes,2182,yes,1989,yes,2143,yes,8642,18-24 years old,21366,Albertha Heim,21366,alberthaheim3515@gmail.com,21366
+51121,15:43:49,935107238,204,5.0.14.0,yes,2714,yes,4575,yes,3116,yes,2101,yes,1764,yes,2038,35-44 years old,40019,Reinger Petties,40019,pettiespmv23@gmail.com,40019
+51121,10:46:24,315983089,206,5.0.14.0,yes,5619,yes,2640,yes,2168,yes,3282,yes,2092,yes,3053,35-44 years old,26178,Ryan Watterson,26178,wattersonwhqpe78@gmail.com,26178
+51121,7:46:22,610160911,208,5.0.14.0,yes,10239,yes,3145,yes,5607,yes,3244,yes,2038,yes,2438,25-34 years old,40766,Greenholt Mike,40766,greenholtaiqaj92@gmail.com,40766
+51121,10:46:36,850693203,209,5.0.14.0,yes,5584,yes,2449,yes,2131,yes,1573,yes,1590,yes,2774,35-44 years old,27155,Erik Levy,27155,eriikklevy@gmail.com,27155
+51121,15:47:37,996906130,211,5.0.14.0,yes,5328,yes,1965,yes,1952,yes,1837,yes,2033,yes,1756,25-34 years old,19600,Marshall Tresa,19600,marshallxszyw69@gmail.com,19600
+51121,15:47:13,456870833,213,5.0.14.0,yes,8218,yes,2210,yes,1826,yes,2029,yes,1607,yes,1759,18-24 years old,20531,Gavin Cannon,20531,cannonggavvin@gmail.com,20531
+51121,10:47:50,980110563,214,5.0.14.0,yes,24941,yes,24257,yes,14469,yes,3254,yes,2335,yes,2494,25-34 years old,37173,Janet Chantel,37173,ivarupxk00@gmail.com,37173
+51121,15:48:22,286423676,216,5.0.14.0,yes,36031,yes,1815,yes,1884,yes,1792,yes,2506,yes,2594,25-34 years old,25674,Nicolas Murphy,25674,niicoolasmurphy@gmail.com,25674
+51121,9:40:37,360223186,220,5.0.14.0,yes,2781,yes,2404,yes,1938,yes,2681,yes,2866,yes,2922,25-34 years old,42972,Landen Housto,42972,landdenhhouston@gmail.com,42972
